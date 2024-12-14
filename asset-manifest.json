@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AGT_Job_App/static/css/main.4135539c.css",
+    "main.js": "/AGT_Job_App/static/js/main.df86414b.js",
+    "static/js/488.ab0d2b2b.chunk.js": "/AGT_Job_App/static/js/488.ab0d2b2b.chunk.js",
+    "index.html": "/AGT_Job_App/index.html",
+    "main.4135539c.css.map": "/AGT_Job_App/static/css/main.4135539c.css.map",
+    "main.df86414b.js.map": "/AGT_Job_App/static/js/main.df86414b.js.map",
+    "488.ab0d2b2b.chunk.js.map": "/AGT_Job_App/static/js/488.ab0d2b2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4135539c.css",
+    "static/js/main.df86414b.js"
+  ]
+}
